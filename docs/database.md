@@ -28,6 +28,7 @@ following command:
 fly status --app [YOUR_APP_NAME]
 ```
 
+
 This will show you a table of all your instances and the primary instance will
 have "ROLE" set to "primary".
 
